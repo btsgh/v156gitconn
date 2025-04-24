@@ -6,6 +6,26 @@
   "evaluationVersion": 2,
   "pages": [
     {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Orders",
+      "isDefault": false
+    },
+    {
+      "id": "Customers",
+      "isDefault": false
+    },
+    {
+      "id": "Products",
+      "isDefault": false
+    },
+    {
+      "id": "Returns",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     }
