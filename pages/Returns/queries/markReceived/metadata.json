@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "markReceived",
     "pageId": "Returns",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

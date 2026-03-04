@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "updateOrderStatus",
     "pageId": "Orders",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

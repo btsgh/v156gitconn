@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "createPerson",
     "pageId": "Customers",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

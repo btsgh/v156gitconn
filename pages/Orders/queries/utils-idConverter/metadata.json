@@ -30,10 +30,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "utils.idConverter",
     "name": "idConverter",
     "pageId": "Orders",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

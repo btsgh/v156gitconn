@@ -23,10 +23,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": true,
     "fullyQualifiedName": "utils.calculateAvFulfilTIme",
     "name": "calculateAvFulfilTIme",
     "pageId": "Dashboard",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "updateOrderShipping",
     "pageId": "Orders",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

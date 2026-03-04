@@ -38,9 +38,9 @@
       "pluginId": "restapi-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "getPdfImage",
     "pageId": "Orders",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

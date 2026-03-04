@@ -23,10 +23,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "utils.generateInvoice",
     "name": "generateInvoice",
     "pageId": "Orders",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
